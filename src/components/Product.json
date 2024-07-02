@@ -1,0 +1,66 @@
+[
+    {
+        "imgSrc": "./products/f1.jpg",
+        "altText": "product image",
+        "brand": "adidas",
+        "title": "Cartoon Astronaut T-Shirts",
+        "stars": 5,
+        "price": "$78"
+    },
+    {
+        "imgSrc": "./products/f2.jpg",
+        "altText": "product image",
+        "brand": "adidas",
+        "title": "Cartoon Astronaut T-Shirts",
+        "stars": 5,
+        "price": "$78"
+    },
+    {
+        "imgSrc": "./products/f3.jpg",
+        "altText": "product image",
+        "brand": "adidas",
+        "title": "Cartoon Astronaut T-Shirts",
+        "stars": 5,
+        "price": "$78"
+    },
+    {
+        "imgSrc": "./products/f4.jpg",
+        "altText": "product image",
+        "brand": "adidas",
+        "title": "Cartoon Astronaut T-Shirts",
+        "stars": 5,
+        "price": "$78"
+    },
+    {
+        "imgSrc": "./products/f5.jpg",
+        "altText": "product image",
+        "brand": "adidas",
+        "title": "Cartoon Astronaut T-Shirts",
+        "stars": 5,
+        "price": "$78"
+    },
+    {
+        "imgSrc": "./products/f6.jpg",
+        "altText": "product image",
+        "brand": "adidas",
+        "title": "Cartoon Astronaut T-Shirts",
+        "stars": 5,
+        "price": "$78"
+    },
+    {
+        "imgSrc": "./products/f7.jpg",
+        "altText": "product image",
+        "brand": "adidas",
+        "title": "Cartoon Astronaut T-Shirts",
+        "stars": 5,
+        "price": "$78"
+    },
+    {
+        "imgSrc": "./products/f8.jpg",
+        "altText": "product image",
+        "brand": "adidas",
+        "title": "Cartoon Astronaut T-Shirts",
+        "stars": 5,
+        "price": "$78"
+    }
+]
